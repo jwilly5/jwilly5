@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jwilly5
+- 👀 I’m interested in working towards a brighter future for myself and those around me. 
+- 🌱 I’m currently learning advanced SQL and Python.
+- 💞️ I’m looking to collaborate on coding projects related to sports, finance, the stock market, personal finance, and general probability. 
+- 📫 How to reach me: j_wilcox_5@hotmail.com
