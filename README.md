@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @jwilly5
-- 👀 I’m interested in working towards a brighter future for myself and those around me. 
-- 🌱 I’m currently learning advanced SQL and Python.
-- 💞️ I’m looking to collaborate on coding projects related to sports, finance, and the stock market.  
-- 📫 How to reach me: j_wilcox_5@hotmail.com
+Hello, ny name is Jordan Wilcox and I am creating tech projects and documenting my journey.
+SQL and Python are the languauges I'm currenlty placing an emphasis on. 
+My personal projects will likely have elements taken from sports and finance, two of the greatest topics to study!
